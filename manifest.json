@@ -1,7 +1,14 @@
 {
   "versions": [
     {
-      "name": "115年7月版",
+      "name": "115年7月12日版",
+      "date": "115年7月12日",
+      "total": 3599,
+      "ruls": "https://raw.githubusercontent.com/spring36861/procurement-quiz-data/main/v20260712/ruls.txt",
+      "setting": "https://raw.githubusercontent.com/spring36861/procurement-quiz-data/main/v20260712/setting.txt"
+    },
+    {
+      "name": "115年7月11日版",
       "date": "115年7月11日",
       "total": 3599,
       "ruls": "https://raw.githubusercontent.com/spring36861/procurement-quiz-data/main/v20260711/ruls.txt",
